@@ -1,4 +1,4 @@
-name: Build
+name: Build on Self Hosted Runners
 on:
   push:
     branches: 
